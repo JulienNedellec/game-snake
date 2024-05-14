@@ -1,3 +1,5 @@
+![Capture d'écran du jeu](assets/images/gameSnake.jpg)
+
 # Jeu de Serpent
 
 Ce projet est une implémentation simple du jeu classique du serpent, réalisée en HTML, CSS et JavaScript.
